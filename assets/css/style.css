@@ -196,7 +196,7 @@ html{
 #footer .footer-background{
     margin-bottom: 0px;
     padding-top: 30%;
-    background: url(https://www.wallpaperkiss.com/wimg/b/171-1711173_big.jpg) top center / cover no-repeat;
+    background: url(/assets/img/footer/picture.jpg) top center / cover no-repeat;
     position: relative;
 }
 
